@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MforMovies</string>
+
+    <string name="error_message">Error while loading movies</string>
+    <string name="popular">GO TO POPULAR</string>
+    <string name="top_rated">GO TO TOP RATED</string>
+
+    <string name="favorites">Favorites</string>
+
+    <string name="top_rated_activity">TOP RATED</string>
+
+    <string name="delete_all_favorites">Delete All</string>
+
+    <string name="content_authority">com.example.android.mformovies</string>
+
+</resources>
